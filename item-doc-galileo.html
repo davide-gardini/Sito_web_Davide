@@ -1,0 +1,140 @@
+<!DOCTYPE html> <!--foglio secondario,legato all'index tramite il collegamento con href, in cui inserisco la pagina dedicata ai personaggi-->
+<html lang="it">
+	<head>
+		<!--charset-->
+		<meta charset="utf-8">
+		<!--inserisco metadati DC-->
+		<meta name="DC.Title" content="Riforma e Controriforma">
+		<meta name="DC.Creator" content="Davide Gardini">
+		<meta name="DC.Subject" content="Enciclopedia con testi, immagini e filmati realtive al periodo della Riforma e della Controriforma">
+		<meta name="DC.Description" content="Enciclopedia con raccolta di vari oggetti al fine di dare una generale illustrazione di un periodo ampio, iniziato nel Cinquecento, protratto per tempo, e di portata tanto grande da cambiare il contesto circostante non solo in ambito religioso, ma anche sociale e politico, anche fuori dai confini dell'Europa">
+		<!--inserisco il titolo del sito-->
+		<title>Riforma e Controriforma</title>
+		<!--inserisco link di Bootstrap per CSS-->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+		<!--incollo link per foglio CSS-->
+		<link rel="stylesheet" href="style.css"/>
+	</head>
+	<body>
+		<header>
+			<section class="container-fluid" style="background-color:rgb(255, 255, 204)">
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Riforma e Controriforma</h1>
+					</div>
+				</div>
+			</section>
+			<!--copio link della navbar di bootstrap-->
+			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  				<a class="navbar-link disabled"><b><i>Opzioni</i></b></a>
+  				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    				<span class="navbar-toggler-icon"></span>
+  				</button>
+  				<!--Compilo la Navbar inserendo le parole che occorrono per la navigazione, allegando ad ogni voce la pagina corrispondente, in modo che l'utente possa raggiungere la pagina desiderata-->
+
+  				<div class="collapse navbar-collapse" id="navbarSupportedContent">
+    				<ul class="navbar-nav mr-auto">
+      					<li class="nav-item active">
+        					<a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+      					</li>
+      					<li class="nav-item">
+        					<a class="nav-link" href="#">Cronologia</a>
+      					</li>
+      					<li class="nav-item dropdown">
+        					<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">Galleria
+        					</a>
+        					<div class="dropdown-menu">
+          						<a class="dropdown-item" href="personaggi.html" target="_blank">Personaggi</a>
+          						<div class="dropdown-divider"></div>
+          						<a class="dropdown-item" href="video.html">Items</a>
+        					</div>
+      					</li>
+      					<li class="nav-item">
+      						<a class="nav-link disabled">|</a>
+      					</li>
+      					<li class="nav-item">
+        					<a class="nav-link" href="bibliografia.html" target="_blank">Bibliografia</a>
+      					</li>
+    				</ul>
+    				<form class="form-inline my-2 my-lg-0">
+      					<input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      					<button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    				</form>
+  				</div>
+			</nav>
+		</header>
+		<main>
+			<section class="container-fluid">
+	      		<div class="row">
+	        		<div class="col-md-12 pb-4 pt-4 bg-secondary text-white">
+	          			<h2 class="text-center">Lettera a Belisario Vinta</h2>
+	        		</div>
+	      		</div>
+	      		<div class="row">
+	      			<div class="col-md-2">
+	      				<aside>
+	      					<!--inserisco il breadcrumbs-->
+	      					<nav aria-label="breadcrumb">
+								<ol class="breadcrumb">
+									<li class="breadcrumb-item"><a href="index.html" title="Torna alla Home">Home</a></li>
+									<li class="breadcrumb-item"><a href="video.html" title="torna a Galleria-items">Galleria-items</a></li>
+									<li class="breadcrumb-item active" aria-current="page">Lettera Galileo</li>
+								</ol>
+							</nav>
+							<button type="button" class="btn btn-warning" style="width: 100%"><a href="GalileiTEI.xml" target="_blank">XML/TEI</a></button>
+						</aside>
+					</div>
+					<div class="col-md-8 p-3">
+						<div class="card card-quadro shadow bg-white rounded">
+						  	<img src="imm/lettera-galileo.jpg" class="card-img-top card-quadro-img" alt="Lettera a Belisario Vinta">
+						  	<div class="card-body">
+						    	<h5 class="card-title">Lettera a Belisario Vinta</h5>
+						  	</div>
+						  	<ul class="list-group list-group-flush">
+						    	<li class="list-group-item"><b>Autore:</b> Galileo Galilei</li>
+						    	<li class="list-group-item"><b>Anno:</b> 1610</li>
+						    	<li class="list-group-item"><b>Luogo:</b> Padova</li>
+						    	<li class="list-group-item"><b>Fornito da:</b> Biblioteca Italiana (<a href="http://www.bibliotecaitaliana.it/testo/bibit000428" target="_blank">Vai alla pagina</a>)</li>
+						  	</ul>
+						  	<div class="card-body">
+						  		<a href="#" class="btn btn-outline-info">Metadati</a>
+						    </div>
+						</div>
+					</div>
+					<div class="col-md-2 p-2">
+						<aside>
+	      					<button type="button" class="btn btn-success"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-question-diamond-fill mr-1" viewBox="0 0 16 16">
+  							<path d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435zM5.495 6.033a.237.237 0 0 1-.24-.247C5.35 4.091 6.737 3.5 8.005 3.5c1.396 0 2.672.73 2.672 2.24 0 1.08-.635 1.594-1.244 2.057-.737.559-1.01.768-1.01 1.486v.105a.25.25 0 0 1-.25.25h-.81a.25.25 0 0 1-.25-.246l-.004-.217c-.038-.927.495-1.498 1.168-1.987.59-.444.965-.736.965-1.371 0-.825-.628-1.168-1.314-1.168-.803 0-1.253.478-1.342 1.134-.018.137-.128.25-.266.25h-.825zm2.325 6.443c-.584 0-1.009-.394-1.009-.927 0-.552.425-.94 1.01-.94.609 0 1.028.388 1.028.94 0 .533-.42.927-1.029.927z"/>
+							</svg>Guida</button>
+							<div class="card mt-2">
+							  	<img src="imm/imm-card/galileo.jpg" class="card-img-top" alt="Galileo Galilei">
+							  	<div class="card-body" style="height:200px">
+							    	<h5 class="card-title">Galileo Galilei</h5>
+							    	<p class="card-text">(1564-1642)</p>
+							    	<a href="https://www.treccani.it/enciclopedia/galileo-galilei/" class="btn btn-info" target="_blank">Vedi altro</a>
+							  	</div>
+							</div>
+	      				</aside>
+					</div>
+				</div>
+	      	</section>
+		</main>
+
+		<footer>
+			<section class="container-fluid">
+				<div class="row">
+					<div class="col-md-12 text-center">
+					  	<img src="imm/logo-unibo.jpg" class="text-center" alt="Logo Unibo">
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12 bg-white text-dark">
+						<h7>&copy; Davide Gardini, Corso di DH & CH, 2021</h7>
+					</div>
+				</div>
+			</section>
+		</footer>	
+		<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+	</body>
+</html>

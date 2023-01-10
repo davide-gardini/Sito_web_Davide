@@ -1,0 +1,299 @@
+<TEI.2>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lettere</title>
+				<author>Galileo Galilei</author>
+			</titleStmt>
+			<extent>453 Kb in UTF-8</extent>
+			<publicationStmt>
+				<publisher>Biblioteca Italiana</publisher>
+				<pubPlace>Roma</pubPlace>
+				<date>2003</date>
+				<idno>bibit000428</idno>
+				<availability>
+					<p>Questa risorsa digitale è liberamente accessibile per uso personale o scientifico. Ogni uso commerciale è vietato</p>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Collezione BibIt</title>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Lettere</title>
+					<author>Galilei, Galileo</author>
+					<editor id="ed">Flora, Ferdinando</editor>
+					<publisher>G. Einaudi</publisher>
+					<pubPlace>Torino</pubPlace>
+					<date>1978</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<samplingDecl>
+				<p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla responsabilità dell'autore dell'opera sono stati soppressi nella versione digitale</p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction method="silent" status="medium">
+					<p>Livello medio: controllo a video con collazione con edizione di riferimento</p>
+				</correction>
+				<quotation form="data" marks="all">
+					<p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea sono stati rappresentati sulla versione digitale</p>
+				</quotation>
+				<hyphenation eol="none">
+					<p>I trattini di sillabazione a fine riga sono stati soppressi e le parole ricomposte</p>
+				</hyphenation>
+			</editorialDecl>
+			<classDecl>
+				<taxonomy id="CDD">
+					<bibl>Classificazione Decimale Dewey</bibl>
+				</taxonomy>
+				<taxonomy id="CGB">
+					<bibl>Classificazione generi BibIt</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<creation>
+				<date>600</date>
+			</creation>
+			<langUsage>
+				<language id="codice">Italiano</language>
+				<language id="lat">Latino</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="CDD">
+					<term>856.5 - EPISTOLOGRAFIA ITALIANA. 1585-1748</term>
+				</keywords>
+				<keywords scheme="CGB">
+					<term>Lettere ed epistolari</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date>2000-02-28T00:00:00.000+02:00</date>
+				<respStmt>
+					<name>Patricia Frosini</name>
+					<name>CIBIT - Pisa</name>
+				</respStmt>
+				<item>Digitalizzazione</item>
+			</change>
+			<change>
+				<date>2000-02-28T00:00:00.000+02:00</date>
+				<respStmt>
+					<name>Patricia Frosini</name>
+					<name>CIBIT-Pisa</name>
+				</respStmt>
+				<item>Correzione linguistica</item>
+			</change>
+			<change>
+				<date>2003-01-07T00:00:00.000+02:00</date>
+				<respStmt>
+					<name>Elena Pierazzo</name>
+					<name>CIBIT - Pisa</name>
+				</respStmt>
+				<item>Codifica XML</item>
+			</change>
+			<change>
+				<date>2003-03-11T00:00:00.000+02:00</date>
+				<respStmt>
+					<name>Elena Pierazzo</name>
+					<name>BIBIT</name>
+				</respStmt>
+				<item>Validazione</item>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="epistola">
+				<head>Lett. I: A BELISARIO VINTA </head>
+				<p>
+					<hi rend="italic">
+						(Padova,
+						<date value="16100507">7 maggio 1610 </date>
+						)
+					</hi>
+					<abbr>Ill.</abbr>
+					mo
+					<abbr>Sig.</abbr>
+					re et Pa
+					<abbr>d.</abbr>
+					ne
+					<abbr>Col.</abbr>
+					mo Come per la mia passata accennai a
+					<abbr>V.</abbr>
+					<abbr>S.</abbr>
+					<abbr>Ill.</abbr>
+					ma, ho fatte
+					<num>3</num>
+					lezioni publiche in materia de i
+					<num>4</num>
+					Pianeti Medicei e delle altre mie osservazioni; e avendo auta l'udienza di tutto lo Studio, ho fatto restare in modo ciascheduno capace e satisfatto, che finalmente quei primarii medesimi che erano stati acerbissimi impugnatori e contrarii assertori alle cose da me scritte, vedendosela finalmente disperata e persa a fatto, costretti o da virtù o da necessità, hanno
+					<foreign lang="lat">
+						<hi rend="italic">coram populo</hi>
+					</foreign>
+					detto, sé non solamente esser persuasi, ma apparecchiati a difendere e sostener la mia dottrina contro a qualunque filosofo che ardisse impugnarla: sì che le scritture minacciate saranno assolutamente svanite, come è svanito tutto il concetto che questi tali avevano sin qui procurato di suscitarmi contro, con speranza forse di esser per sostenerlo, credendo che io, atterrito dalla loro autorità o sbigottito dal profluvio de i lor creduli seguaci, fussi per ritirarmi in un cantone e ammutirmi. Ma il
+					<pb n="3"/>
+					negozio è passato tutto al rovescio; e ben conveniva che la verità restasse di sopra. Saprà a presso
+					<abbr>V.</abbr>
+					<abbr>S.</abbr>
+					<abbr>Ill.</abbr>
+					ma, e per lei loro
+					<abbr>Ser.</abbr>
+					me A
+					<abbr>l.</abbr>
+					ze, come dal Matematico dell'Imperatore ho ricevuta una lettera, anzi un intero trattato di
+					<num>8</num>
+					fogli, scritto in approbazione di tutte le particole contenute nel mio libro, senza pur contradire o dubitare in una sola minima cosa. E creda pur
+					<abbr>V.</abbr>
+					<abbr>S.</abbr>
+					<abbr>Ill.</abbr>
+					ma che l'istesso averiano anco parimente detto da principio i literati d'Italia, s'io fussi stato in Alemagna o più lontano; in quella guisa a punto che possiamo credere, che gl'altri principi circunvicini d'Italia con occhio un poco più torbido rimirino la eminenza e potere del nostro
+					<abbr>Ser.</abbr>
+					mo Signore, che gl'immensi tesori e forze del Mosco o del Chinese, per tanto intervallo remoti. Ora il negozio è qua in stato tale, che l'invidia ora mai non ha più attacco di abbassarlo, col convincerlo di falsità, né pure anco col metterlo in dubbio. Resta a noi, ma principalmente a i nostri
+					<abbr>Ser.</abbr>
+					mi Padroni, di sostenerlo in reputazione e grandezza, col mostrare di farne quella stima che a così segnalata novità si conviene, essendo ella in effetto stimata per tale da tutti quelli che ne parlano con sincero animo. L'
+					<abbr>Ill.</abbr>
+					mo
+					<abbr>S.</abbr>
+					Ambasciator Medici mi scrive di Praga, non essere in quella Corte occhiali se non di assai mediocre efficacia, e per
+					<pb n="4"/>
+					ciò me ne domanda uno, accennandomi essere desiderato anco da
+					<abbr>S.</abbr>
+					<abbr>M.</abbr>
+					à; e mi scrive che io lo deva far consegnare in Venezia al Secretario del
+					<abbr>S.</abbr>
+					Residente, acciò lo mandi sicuro. Io però intendo che detto Secretario non riceverà o manderà cosa alcuna senza l'ordine di
+					<abbr>V.</abbr>
+					<abbr>S.</abbr>
+					<abbr>Ill.</abbr>
+					ma: però, contentandosi
+					<abbr>S.</abbr>
+					A
+					<abbr>.</abbr>
+					che io ne mandi per tal via sarà
+					<abbr>V.</abbr>
+					<abbr>S.</abbr>
+					<abbr>Ill.</abbr>
+					ma servita di dar ordine in Venezia che siano ricevuti e mandati. Intanto, non me ne ritrovando di esquisiti, vedrò di condurne a fine un paro o dui, se bene a me è grandissima fatica, né io vorrei esser necessitato a mostrare ad altri il modo vero del lavorargli, se non a qualche servitore del
+					<abbr>G.</abbr>
+					<abbr>D.</abbr>
+					, come per altra gli ho scritto. Però, e per altri rispetti ancora e principalissimamente per quietarmi di animo, desidero grandemente la resoluzione dell'altro negozio, statomi più volte accennato, ma particolarmente da
+					<abbr>V.</abbr>
+					<abbr>S.</abbr>
+					<abbr>Ill.</abbr>
+					ma ultimamente in Pisa: perché sono in tutti i modi resoluto, vedendo che ogni giorno passa un giorno, di mettere il chiodo allo stato futuro della vita che mi avanza, e attendere con ogni mio potere a condurre a fine i frutti delle fatiche di tutti i miei studii passati, da i quali posso sperarne qualche gloria. E dovendo trapassare quelli anni che mi restano o qui o in Firenze, secondo che piacerà al nostro
+					<abbr>Ser.</abbr>
+					mo Signore, io dirò a
+					<abbr>V.</abbr>
+					<abbr>S.</abbr>
+					<abbr>Ill.</abbr>
+					ma quello che ho qui, e quello che desidererei costà, rimettendomi però sempre al comandamento di
+					<abbr>S.</abbr>
+					A
+					<abbr>.</abbr>
+					<abbr>S.</abbr>
+					<pb n="5"/>
+					Qui ho di stipendio fermo fiorini
+					<num>1000</num>
+					l'anno in vita mia, e questi sicurissimi, venendomi da un principe immortale e immutabile. Più di altrettanto posso guadagnarmi da lezioni private, tuttavolta che io voglia leggere a signori oltramontani; e quando io fussi inclinato a gl'avanzi, tutto questo e più ancora potrei mettere da canto ogn'anno col tenere gentil'uomini scolari in casa, col soldo de i quali potrei largamente mantenerla. In oltre, l'obligo mio non mi tien legato più di
+					<num>60</num>
+					mez'ore dell'anno, e questo tempo non così strettamente, che per qualunque mio impedimento io non possa, senza alcun pregiudizio, interpor anco molti giorni vacui: il resto del tempo sono liberissimo, e assolutamente
+					<foreign lang="lat">
+						<hi rend="italic">mei iuris</hi>
+						.
+					</foreign>
+					Ma perché e le lezioni private e gli scolari domestici mi sariano d'impedimento e ritardanza a i miei studi, voglio da questi totalmente, e in gran parte da quelle, vivere esente; però, quando io dovessi ripatriarmi, desidererei che la prima intenzione di
+					<abbr>S.</abbr>
+					A
+					<abbr>.</abbr>
+					<abbr>S.</abbr>
+					fusse di darmi ozio e comodità di potere tirare a fine le mie opere, senza occuparmi in leggere. Né vorrei che per ciò credesse
+					<abbr>S.</abbr>
+					A
+					<abbr>.</abbr>
+					che le mie fatiche fussero per esser men profittevoli agli studiosi della professione, anzi assolutamente sariano più; perché nelle pubbliche lezioni non si può leggere altro che i primi elementi, per il che molti sono idonei; e tal lettura è solo di impedimento e di niuno aiuto al condurre a fine le opere mie, le quali tra le cose della professione credo che non terranno l'ultimo luogo. Per simile rispetto, sì come io reputerei sempre a mia somma gloria il poter leggere a i Principi, così all'incontro non vorrei aver necessità di leggere ad altri. E in somma vorrei che i libri miei, indrizzati sempre al
+					<abbr>Ser.</abbr>
+					mo nome del mio Signore, fussero quelli che mi guadagnassero il pane; non restando intanto di conferire a
+					<abbr>S.</abbr>
+					A
+					<abbr>.</abbr>
+					tante e tali invenzioni, che forse niun altro principe ne ha di maggiori, delle quali io non solo ne ho molte in effetto, ma posso assicurarmi di esser per trovarne molte ancora alla giornata, secondo le occasioni che si presentassero: oltre che di quelle invenzioni che dependono da la mia professione, potria esser
+					<abbr>S.</abbr>
+					A
+					<abbr>.</abbr>
+					sicura di non
+					<pb n="6"/>
+					esser per impiegare in alcuna di esse i suoi danari inutilmente, come per avventura altra volta è stato fatto e in grossissime somme, né anco per lasciarsi uscir delle mani qualunque trovato propostogli da altri, che veramente fusse utile e bello. Io de i secreti particolari, tanto di utile quanto di curiosità e admirazione, ne ho tanta copia, che la sola troppa abbondanza mi nuoce e ha sempre nociuto; perché se io ne avessi auto un solo, l'averei stimato molto, e con quello facendomi innanzi, potrei a presso qualche principe grande avere incontrata quella ventura, che sin ora non ho né incontrata né ricercata.
+					<foreign lang="lat">"Magna longeque admirabilia apud me habeo": </foreign>
+					<foreign lang="lat">
+						ma non possono servire, o, per dir meglio, essere messe in opera se non da principi, perché loro fanno e sostengono guerre, fabricano e difendono fortezze, e per loro regii diporti fanno superbissime spese, e non io o gentil'uomini privati. Le opere che ho da condurre a fine sono principalmente
+						<num>2</num>
+						libri
+					</foreign>
+					<foreign lang="lat">"De sistemate seu constitutione universi", </foreign>
+					concetto immenso e pieno di filosofia, astronomia e geometria: tre libri
+					<foreign lang="lat">"De motu locali", </foreign>
+					scienza interamente nuova, non avendo alcun altro, né antico né moderno, scoperto alcuno de i moltissimi sintomi ammirandi che io dimostro essere ne i movimenti naturali e ne i violenti, onde io la posso ragionevolissimamente chiamare scienza nuova e ritrovata da me sin da i suoi primi principii: tre libri delle mecaniche, due attenenti alle demostrazioni de i principii e fondamenti, e uno de i problemi; e benché altri abbino scritto questa medesima materia, tutta via quello che ne è stato scritto sin qui, né in quantità né in altro è il quarto di quello che ne scrivo io. Ho anco diversi opuscoli di soggetti naturali, come
+					<foreign lang="lat">"De sono et voce, De visu et coloribus, De maris estu, De compositione continui, De animalium motibus", </foreign>
+					e altri ancora. Ho
+					<pb n="7"/>
+					anco in pensiero di scrivere alcuni libri attenenti al soldato, formandolo non solamente in idea, ma insegnando con regole molto esquisite tutto quello che si appartiene di sapere e che depende dalle matematiche, come la cognizione delle castrametazioni, ordinanze, fortificazioni, espugnazioni, levar piante, misurar con la vista, cognizioni attenenti alle artiglierie, usi di varii strumenti, etc. Mi abbisogna di più ristampare l'
+					<hi rend="italic">Uso del mio Compasso Geometrico</hi>
+					, dedicato a
+					<abbr>S.</abbr>
+					A
+					<abbr>.</abbr>
+					, non se ne trovando più copie; il quale strumento è stato talmente abbracciato dal mondo, che veramente adesso non si fanno altri strumenti di questo genere, e io so che sin ora ne sono stati fabricati alcune migliaia. Io non dirò a
+					<abbr>V.</abbr>
+					<abbr>S.</abbr>
+					<abbr>Ill.</abbr>
+					ma quale occupazione mi sia per apportare il seguir di osservare e investigare i periodi esquisiti de i quattro nuovi pianeti; materia, quanto più vi penso, tanto più laboriosa, per il non si disseparar mai, se non per brevi intervalli l'uno dall'altro, e per esser loro e di colore e di grandezza molto simili. Sì che,
+					<abbr>Ill.</abbr>
+					mo
+					<abbr>S.</abbr>
+					, bisogna che i' pensi al disoccuparmi da quelle occupazioni che possono ritardare i miei studi, e massime da quelle che altri può fare in cambio mio; però la prego a proporre a loro A
+					<abbr>lt.</abbr>
+					e, e a se medesima, queste considerazioni, e avvisarmi poi la loro resoluzione. Intanto non voglio restar di dirgli, come circa lo stipendio mi contenterò di quello che lei mi accennò in Pisa, essendo onorato per un servitore di tanto Principe; e sì come io non soggiungo niente sopra la quantità, così son sicuro che, dovendo io levarmi di qua, la benignità di
+					<abbr>S.</abbr>
+					A
+					<abbr>.</abbr>
+					non mi mancherebbe di alcuna di quelle comodità che si sono usate con altri, bisognosi anco meno di me, e però non ne parlo adesso. Finalmente, quanto al titolo e pretesto del mio servizio, io desidererei, oltre al nome di Matematico, che
+					<abbr>S.</abbr>
+					A
+					<abbr>.</abbr>
+					ci aggiugnesse quello di Filosofo, professando io di avere studiato più anni in filosofia, che mesi in matematica pura: nella quale qual profitto io abbia fatto, e se io possa e
+					<pb n="8"/>
+					deva meritar questo titolo potrò far vedere a loro A
+					<abbr>lt.</abbr>
+					e, qual volta sia di loro piacimento il concedermi campo di poterne trattare alla presenza loro con i più stimati in tal facoltà. Ho scritto lungamente per non aver più a ritornare sopra tal materia con suo nuovo tedio: mi scusi
+					<abbr>V.</abbr>
+					<abbr>S.</abbr>
+					<abbr>Ill.</abbr>
+					ma, perché, se bene questo a lei, che è consueta a maneggiar negozii gravissimi, parerà frivolissimo e leggiero, a me però è egli il più grave che io possa incontrare, concernendo o la mutazione o la confirmazion di tutto lo stato e l'esser mio. Aspetterò sua risposta; e in tanto, supplicandola ad inchinarsi umilmente in mio nome a loro A
+					<abbr>.</abbr>
+					<abbr>Ser.</abbr>
+					e, bacio a
+					<abbr>V.</abbr>
+					<abbr>S.</abbr>
+					<abbr>Ill.</abbr>
+					ma con ogni reverenza le mani, e dal Signore Dio gli prego somma felicità. Di Pa
+					<abbr>d.</abbr>
+					a, li
+					<date value="16100507">7 di Maggio 1610 </date>
+					. Di
+					<abbr>V.</abbr>
+					<abbr>S.</abbr>
+					<abbr>Ill.</abbr>
+					ma
+					<abbr>Ser.</abbr>
+					re
+					<abbr>Oblig.</abbr>
+					mo Galileo Galilei.
+				</p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

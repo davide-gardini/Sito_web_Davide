@@ -1,0 +1,52 @@
+.carousel
+.carousel-caption {
+	background-color: rgba(26, 26, 26, .7); left: 0; right: 0; width: 100%;
+}
+
+h1 {
+	font-family: Lucida Calligraphy;
+	color: red;
+}
+
+.card-body {
+	height: 300px;
+}
+.btn {
+	display: block; margin: 0 auto;
+}
+
+.breadcrumb {
+	background-color: white;
+}
+
+.dropright {
+	width: 100%;
+}
+
+.card-img-top {
+	height: 45vh;
+}
+
+.card-item {
+	height: 500px;
+}
+
+.card-pers {
+	height: 500px;
+}
+
+.card-quadro {
+	width: 100%;
+	height: 700px;
+}
+
+.card-quadro-img {
+	width: 350px;
+	height: 60vh;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer {
+	background-color: rgb(153, 204, 255);
+}
